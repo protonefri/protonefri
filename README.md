@@ -1,0 +1,4 @@
+- Hi, I’m Nemanja Protić (@protonefri).
+- Currently I am working as a full stack developer for small programming company in Serbia.
+- Getting familiar with blokchain technology, and looking forward to working on it.
+- You can reach me on my e-mail at protonefri@gmail.com
